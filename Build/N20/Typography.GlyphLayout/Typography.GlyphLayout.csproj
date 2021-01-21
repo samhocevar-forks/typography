@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Typography.GlyphLayout</RootNamespace>
     <AssemblyName>Typography.GlyphLayout</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
 	  <LangVersion>8.0</LangVersion>
 	  <Nullable>enable</Nullable>
